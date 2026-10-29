@@ -1,6 +1,6 @@
 **Сборка:**
 ```bash
-cmake -S . -B build"
+cmake -S . -B build
 ```
 По умолчанию стоит тип double
 
